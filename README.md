@@ -1,4 +1,4 @@
-# AlfiniQ • الفينيق • (Phoenix)
+# AlfiniQ • الفينيق • (Phoenix) <span style="color:blue">some *blue* text</span>.
 # Post-Catastrophe Disease Prevention using Quantum Genome Sequencing
 ## Reviving Civilizations, One Genome at a Time
 Project for Team 7 at the NYUAD Hackathon for Social Good 2024.
