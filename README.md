@@ -6,7 +6,7 @@ Project for Team 7 at the NYUAD Hackathon for Social Good 2024.
 AlfiniQ is a groundbreaking project that combines machine learning, quantum computing, and genomic sequencing to provide an early warning system for disease prevention in post-conflict zones. By analyzing the genetic predispositions of individuals affected by crises, AlfiniQ empowers them to take proactive measures and secure their futures, saving millions of lives and rebuilding civilizations from the ashes.
 
 <p align="center">
-  <img src="(https://i.pinimg.com/originals/10/ce/e2/10cee23a6962e079cdd63066564c713e.gif)" alt="Sublime's custom image"/>
+  <img src="https://i.pinimg.com/originals/10/ce/e2/10cee23a6962e079cdd63066564c713e.gif" alt="Sublime's custom image"/>
 </p>
 
 ## Overview
